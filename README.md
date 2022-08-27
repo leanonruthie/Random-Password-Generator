@@ -18,7 +18,7 @@ WHEN the password is generated
 THEN the password properly shows up inside the box instead of "Your Secure Password"
 
 ## Link
-<a href = https://leanonruthie.github.io/RYK-Module-03-07-12-22>https://leanonruthie.github.io/RYK-Module-03-07-12-22/</a>
+<a href = https://leanonruthie.github.io/Random-Password-Generator>https://leanonruthie.github.io/Random-Password-Generator/</a>
 
 ## Screenshot
 
