@@ -1,4 +1,4 @@
-# RYK-Module-03-07-12-22
+# Random-Password-Generator
 
 ## User Story
 
